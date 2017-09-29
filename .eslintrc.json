@@ -1,0 +1,17 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "no-console": "off",
+        "import/newline-after-import": "off",
+        "no-unused-vars": 0,
+        "max-len": 0,
+        "react/jsx-filename-extension": "off",
+        "react/prefer-stateless-function": "off",
+        "react/require-extension": "off",
+        "react/wrap-multilines": "off",
+        "class-methods-use-this": "off",
+        "react/prop-types": 0,
+        "jsx-a11y/no-noninteractive-element-interactions": 0
+
+    }
+}
